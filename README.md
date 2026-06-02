@@ -1,0 +1,2 @@
+# Analisis-Tingkat-Kemiskinan-di-Jawa-Barat-Tahun-2025
+Project ini membahas analisis statistik tingkat kemiskinan kabupaten/kota di Jawa Barat tahun 2025 menggunakan data dari Badan Pusat Statistik (BPS). Analisis dilakukan untuk memahami kondisi kemiskinan, membandingkan persentase kemiskinan antar daerah, serta mengidentifikasi wilayah dengan tingkat kemiskinan tertinggi dan terendah di Jawa Barat.
